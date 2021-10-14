@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yuta1142
-- 👀 I’m interested in coding, developing games
+- 👋 Hi, I’m Yeoyan
+- 👀 I’m interested in coding, developing games, 3D Modeling and digital art.
 - 🌱 I’m currently learning C++/C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Discord: ユタ#1475
 
 <!---
 Yuta1142/Yuta1142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
