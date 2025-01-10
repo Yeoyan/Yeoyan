@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yeoyan
+- 👋 Hi, I’m flameu
 - 👀 I’m interested in coding, developing games, 3D Modeling and digital art.
 - 🌱 I’m currently learning C++/C#
 
